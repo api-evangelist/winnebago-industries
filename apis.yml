@@ -14,6 +14,8 @@ created: '2026-05-04'
 modified: '2026-05-04'
 specificationVersion: '0.19'
 common:
+  - type: LinkedIn
+    url: https://www.linkedin.com/company/winnebago-industries
   - type: Website
     url: https://www.winnebagoind.com
   - type: Innovation
