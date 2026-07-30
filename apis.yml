@@ -3,6 +3,17 @@ aid: winnebago-industries
 url: https://github.com/api-evangelist/winnebago-industries
 name: Winnebago Industries
 type: Index
+accessModel:
+  pricing: unknown
+  onboarding: unknown
+  trial: false
+  try_now: false
+  public: false
+  label: Unknown
+  confidence: low
+  source: []
+  generated: '2026-07-22'
+  method: derived
 image: https://www.winnebagoind.com/favicon.ico
 tags:
   - Recreational Vehicles
